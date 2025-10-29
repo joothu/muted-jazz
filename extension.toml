@@ -1,0 +1,23 @@
+id = "muted-jazz"
+name = "Muted Jazz"
+version = "0.0.1"
+schema_version = 1
+description = "color scheme inspired by blue note's design language with acessibility on mind."
+repository = ""
+authors = ["jth <joothu256@gmail.com>"]
+themes = ["themes/muted_jazz.json"]
+icon_themes = []
+languages = []
+capabilities = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[context_servers]
+
+[slash_commands]
+
+[indexed_docs_providers]
